@@ -9,6 +9,15 @@ public class Input {
     private String text;
     private String name;
 
+
+    public Input()
+    {
+
+    }
+
+
+
+
     public Input(String text, String name) {
         this.text = text;
         this.name = name;
